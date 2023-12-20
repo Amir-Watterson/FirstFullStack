@@ -1,0 +1,205 @@
+[
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$8vNAMk0W6T94w.aLLAx9YeXMZoPdq0RnvTOMNSD4azhdlBOPDg.mG"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$ZWET6w..VnwI7mB4d6xiTuO0uWnPZSCMhs6wGwU9PsO5wA41WajxS"
+    },
+    {
+        "username": "вввв",
+        "surname": "вывсв",
+        "phone": "2332332",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$4OST8NDRymlyfFtvqQSs.ejw3n76tuPQcEcnwG66QcaLwqOiX1JP."
+    },
+    {
+        "username": "вввв",
+        "surname": "вывсв",
+        "phone": "2332332",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$4u2NuJPHuPlYVs0eVMtIvuivHD2EIs0jd\/SCGfQKQ1hjl7aTEPS0a"
+    },
+    {
+        "username": "вввв",
+        "surname": "вывсв",
+        "phone": "2332332",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$vtFx\/ZvgZHREst9JnmTlS.peRoZikow1l\/51fFkZFz14vTCXfxVfC"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$fcJ7bz350E2Yt0jqpX42YeoXYKBKA8gZ3y3wLr74NJcEZfP1WB0Aa"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$tsd1g3uNlVt0Ex7ujI8h7OBW2kx2Sy9Uuw.wmPGQUYSto3taItjDK"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$XqbBWtTvph61hTmm40DvAe4f.bL9.WCadMYkyTSeJ3C5O\/KvdBmSa"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$XXkkds952Vvlv1\/rSMZs\/u4PQews9IWwhPbYFD10tVWLwhfkGBhhi"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$ff5gpJ7WDY4sMOIS06LcHO293hktxKI2Q\/ADXzm74i8BoIgjr2v0K"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$6JVbOe9FZjbogzbo9m7IXuVQZ3jwJ.0emryhGUIzxLSJnVzJTdFPS"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$HQvFvql4FOpKp1x4IjfRcuJJdj7mhnIvcXxMaUcIBw\/twz5fn\/JXe"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$9LjbveARN7Kgk9r8qqYQuuIwjAmO7oS3NAgF8\/c7264AlCdcHLnCy"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$G.8f3VxmnypHzId9jddIfufvIWLY2rmWOGhIBs9d32J8u\/c6WSpsC"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$noxKBFZkLNeNq2ZtjiP4WOw3PK\/wmVF\/E7pVLqYaRErLt6SwJYy1e"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$FJCLw1dYFuvrjixCNTJL8uf\/Y7VkhVWbbKZmAgqDl3m6oNJs4SaIy"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$v5fsjkUgFKpi4rEZdVSNW.O0OHqtl1.2zO21a.xoKAP\/W2ggcAHYu"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$YguBsMJCXafjUwvz6eZJvex57k0GF6vl9IieWS5.zrsVweVkF5Cfy"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$7tyiy2naZBh5YBOLsihNT.ZGipJi74SMgYXV3M9QyPtDrVj0QIWH6"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$4XjwWO0FGzhRJrSdWZWF5uv7S3keteDSfRtv2NrxNNd44veiE8AoG"
+    },
+    {
+        "username": "Amir",
+        "surname": "Atajanov",
+        "phone": "8335406545",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$8ampn.ugb9wjaIdQUllGh.5Z8LEZyYbxhFef8w1FwLS7DlxXxfrL2"
+    },
+    {
+        "username": "Самир",
+        "surname": "атататата",
+        "phone": "8342344342",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$ptnRr.ZwpPU3XHd07YHgZ.UV69NpLd7hcqkrwSMLfMBzHT8ykDQna"
+    },
+    {
+        "username": "Самир",
+        "surname": "атататата",
+        "phone": "8342344342",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$KSvNtV.csYhgmwpIjWGYK.QbjzAi.tx2LkEuWsE82VGCc7mXJhK1S"
+    },
+    {
+        "username": "амир",
+        "surname": "атататата",
+        "phone": "8342344342",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$u5E8GeG3fzoXSPMDRFPcieBDOPDwnnAGo9k227FfDeGPGibmOQhP2"
+    },
+    {
+        "username": "амир",
+        "surname": "атажанов",
+        "phone": "90123443112",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$9Endd7ne35pzyl4nn7Zul.76nxIM1DRQfSwX\/0UHAFZc87IS4jIUG"
+    },
+    {
+        "username": "амир",
+        "surname": "атажанов",
+        "phone": "90123443112",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$HjXHNn9Lg5LohOcg7atPierCVx4O3WjAGJM4ixh10P0BqB5PM3ACW"
+    },
+    {
+        "username": "амир",
+        "surname": "атажанов",
+        "phone": "90123443112",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$fhgLb7c9OnJk7kV1fG4HEOLnWOFZWOPTK\/LL4fbPOtA1O\/N0FO0gC"
+    },
+    {
+        "username": "амир",
+        "surname": "атажанов",
+        "phone": "90123443112",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$maQVQdWeCpLNIlnZj1.mM.BYkQIZDiVl3zVVYgeZbRQtBwBVUOh3u"
+    },
+    {
+        "username": "амир",
+        "surname": "атажанов",
+        "phone": "90123443112",
+        "email": "everysumgrind@gmail.com",
+        "password": "$2y$10$Ne7gwmYjnG91CpXOo1InF.hv1K9EarsfmIDDmSYcikgYHblVeD\/zO"
+    }
+]

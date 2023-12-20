@@ -1,0 +1,82 @@
+[
+    {
+        "version": "Версия - NexusConnect = 27$",
+        "color": "Цвет - Сиреневый = 8$",
+        "size": "Размер - 7.34px = 12$"
+    },
+    {
+        "version": "version1",
+        "color": "version4",
+        "size": "version1"
+    },
+    {
+        "version": "version1",
+        "color": "version3",
+        "size": "version1"
+    },
+    {
+        "version": "Версия - QuantumLink = 56$",
+        "color": "Цвет - Зеленый = 7$",
+        "size": "Размер - 14.34px = 20$"
+    },
+    {
+        "version": "Версия - NexusConnect = 27$",
+        "color": "Цвет - Сиреневый = 8$",
+        "size": "Размер - 7.34px = 12$"
+    },
+    {
+        "version": "Версия - HorizonTalk = 89$",
+        "color": "Цвет - Голубой = 5$",
+        "size": "Размер - 5.45px = 2$"
+    },
+    {
+        "version": "Версия - NexusConnect = 27$",
+        "color": "Цвет - Сиреневый = 8$",
+        "size": "Размер - 7.34px = 12$"
+    },
+    {
+        "version": "Версия - NexusConnect = 27$",
+        "color": "Цвет - Сиреневый = 8$",
+        "size": "Размер - 7.34px = 12$"
+    },
+    {
+        "version": "Версия - NexusConnect = 27$",
+        "color": "Цвет - Сиреневый = 8$",
+        "size": "Размер - 7.34px = 12$"
+    },
+    {
+        "version": "Версия - NexusConnect = 27$",
+        "color": "Цвет - Сиреневый = 8$",
+        "size": "Размер - 7.34px = 12$"
+    },
+    {
+        "version": "Версия - NexusConnect = 27$",
+        "color": "Цвет - Сиреневый = 8$",
+        "size": "Размер - 7.34px = 12$"
+    },
+    {
+        "version": "Версия - NexusConnect = 27$",
+        "color": "Цвет - Сиреневый = 8$",
+        "size": "Размер - 7.34px = 12$"
+    },
+    {
+        "version": "Версия - NexusConnect = 27$",
+        "color": "Цвет - Сиреневый = 8$",
+        "size": "Размер - 7.34px = 12$"
+    },
+    {
+        "version": "Версия - QuantumLink = 56$",
+        "color": "Цвет - Черный = 12$",
+        "size": "Размер - 5.34px = 12$"
+    },
+    {
+        "version": "Версия - NexusConnect = 27$",
+        "color": "Цвет - Сиреневый = 8$",
+        "size": "Размер - 7.34px = 12$"
+    },
+    {
+        "version": "Версия - NexusConnect = 27$",
+        "color": "Цвет - Сиреневый = 8$",
+        "size": "Размер - 7.34px = 12$"
+    }
+]

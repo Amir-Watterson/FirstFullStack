@@ -1,0 +1,27 @@
+  <?php
+        
+        $filePath = 'buydata.txt';
+
+// Проверяем существование файла
+if (file_exists($filePath)) {
+    // Читаем содержимое файла
+    $data = file_get_contents($filePath);
+
+    // Декодируем данн ые (например, если это JSON)
+    $dataArray = json_decode($data, true);
+
+    // Выбираем последний элемент массива
+    $lastElement = end($dataArray);
+
+    // Проверяем, удалось ли выбрать элемент
+    if ($lastElement !== false) {
+        // Выводим данные последнего элемента на экран
+        echo '<ul><li>' . $lastElement['version'] . '<br></li>';
+        echo '<li>' . $lastElement['color'] . '<br></li>';
+        echo '<li>' . $lastElement['size'] . '<br></li></ul>';
+    } else {
+        echo 'Файл не содержит данных или не является корректным форматом.';
+    }
+} else {
+    echo 'Файл не найден.';
+}
